@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gabichiorlin
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning process improvements exploring cybersecurity and python development
 
 <!---
